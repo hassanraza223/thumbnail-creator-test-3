@@ -1,0 +1,6 @@
+# User-Agent target for all web robots
+User-agent: *
+Allow: /
+
+# Direct sitemap pointer for immediate crawler discovery
+Sitemap: https://thumbnailcreator.online/sitemap.xml
